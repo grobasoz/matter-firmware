@@ -2,6 +2,8 @@
 
 ## Windows.
 
+**NB! Untested as yet - I don't have S3 based kit.**
+
 To flash, call flash.bat with comport as first argument and bin file as second - eg...
 
 **flash COM1 light**
