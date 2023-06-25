@@ -17,7 +17,13 @@ The following matter commands can be used.
 
 ---
 
-### ESP32-GR ZB_Controller Version - See Espressif  [Docs](https://docs.espressif.com/projects/esp-matter/en/latest/esp32/developing.html) for building.
+### See the [ESP Docs](https://github.com/espressif/esp-matter/tree/main/examples/zigbee_bridge) for more information.
+
+### To build the code, see Espressif  [Building Guide.](https://docs.espressif.com/projects/esp-matter/en/latest/esp32/developing.html)
+
+### This can be run on an ESP32 Dev Kit, ESP32Wroom etc.
+
+### Also the ESP32-GR ZB_Controller Version can be used with an ESP32-C6 or ESP32-H2 expansion board.
 
 Connect GR Controller ESP32 to RCP using the following connections...
 
