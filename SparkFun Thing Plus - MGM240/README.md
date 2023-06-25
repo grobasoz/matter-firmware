@@ -18,3 +18,6 @@ Must be programmed onto STPM device.
 
 - Matter Light Over Thread.
 - Two lights implemented (2 Endpoints).
+- Lights are implemented on Ports D2 (Light 1), and D3 (Light 2), Active Low.
+- Buttons are implemented on Ports B0 (Function), and B1 (Toggle) - NB debounce needs to be improved!
+  
