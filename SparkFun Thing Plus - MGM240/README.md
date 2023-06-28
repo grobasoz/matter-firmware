@@ -39,6 +39,6 @@ Once selected click the "Device Info" button to see if it connected OK. You shou
 
 ![Device Info](../Images/DeviceInfoSTPM.png)
 
-If all appears OK, click the "Flash" button and "Browse" you your application file location, eg where you copied the repository. Then click the "Flash" button to flash the device.
+If all appears OK, click the large "Flash" button on the left and "Browse" you your application file location, eg where you copied the repository. Then click the small "Flash" button (Step 2) to flash the device.
 
 ![Flash](../Images/FlashDevice.png)
