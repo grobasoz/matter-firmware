@@ -30,6 +30,7 @@ Must be programmed onto STPM device.
 - Tested with Apple Home Pod Mini
 
 ### QRCode for Commissioning
+NB! This is the QRCode I used, it may not work for your device. If it doesn't, please mark as an issue and I will document how to generate a QRCode.
 
 ![Select Kit](../Images/SFTM-QRCode.png)
 
