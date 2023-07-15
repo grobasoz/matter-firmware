@@ -21,6 +21,14 @@ Must be programmed onto STPM device.
 - Lights are implemented on Ports D2 (Light 1), and D3 (Light 2), Active Low.
 - Buttons are implemented on Ports B0 (Function), and B1 (Toggle) - NB debounce needs to be improved!
 
+### MatterOccupancyOverThread.s37
+
+- Matter Occupancy Sensor Over Thread.
+- Sleepy End Device (5 sec interval)
+- Button 0 - PB0 - Commission
+- Button 1 - PB1 - Active Low - Open (No detection), Closed (Detection)
+- Tested with Apple Home Pod Mini
+
 ---
 
 ## Programming the Sparkfun Thing Plus Matter.
