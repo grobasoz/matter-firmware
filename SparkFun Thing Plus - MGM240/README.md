@@ -29,6 +29,10 @@ Must be programmed onto STPM device.
 - Button 1 - PB1 - Active Low - Open (No detection), Closed (Detection)
 - Tested with Apple Home Pod Mini
 
+### QRCode for Commissioning
+
+![Select Kit](../Images/SFTM-QRCode.png)
+
 ---
 
 ## Programming the Sparkfun Thing Plus Matter.
